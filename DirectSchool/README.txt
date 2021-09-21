@@ -1,0 +1,3 @@
+﻿(っ◔◡◔)っ TUDO PRONTO!
+	ou quase...
+ não consegui fazer metodos e nem aplicar valores para as matérias, porém fiz o meu melhor.
