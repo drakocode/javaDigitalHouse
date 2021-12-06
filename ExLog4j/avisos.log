@@ -1,0 +1,88 @@
+[2021-10-28 11:52:34] [ INFO ] [Lion:46] Lion Mufasa running
+[2021-10-28 11:52:34] [ INFO ] [Lion:46] Lion Simbad running
+[2021-10-28 11:52:34] [ INFO ] [Lion:46] Lion Dabmis running
+[2021-10-28 11:52:34] [ INFO ] [Lion:51] Lion Mufasa tem 10 anos ou mais e é alfa
+[2021-10-28 11:52:34] [ INFO ] [Lion:53] Lion Simbad can't run
+[2021-10-28 11:52:34] [ ERROR] [Lion:55] Idade n pode ser negativa
+[2021-10-28 11:52:34] [ ERROR] [Test:32] a idade do leao Mufasa ta incorreta
+java.lang.Exception
+	at Lion.isMaior10(Lion.java:56)
+	at Test.main(Test.java:30)
+[2021-10-28 11:54:23] [ INFO ] [Lion:46] Lion Mufasa running
+[2021-10-28 11:54:23] [ INFO ] [Lion:46] Lion Simbad running
+[2021-10-28 11:54:23] [ INFO ] [Lion:46] Lion Dabmis running
+[2021-10-28 11:54:23] [ INFO ] [Lion:51] Lion Mufasa tem 10 anos ou mais e é alfa
+[2021-10-28 11:54:23] [ INFO ] [Lion:53] Lion Simbad can't run
+[2021-10-28 11:54:23] [ ERROR] [Lion:55] Lion Dabmis n tem idade n pode ser negativa
+[2021-10-28 11:54:23] [ ERROR] [Test:32] a idade do leao Mufasa ta incorreta
+java.lang.Exception
+	at Lion.isMaior10(Lion.java:56)
+	at Test.main(Test.java:30)
+[2021-10-28 11:58:20] [ INFO ] [Lion:46] Lion Mufasa running
+[2021-10-28 11:58:20] [ INFO ] [Lion:46] Lion Simbad running
+[2021-10-28 11:58:20] [ INFO ] [Lion:46] Lion Dabmis running
+[2021-10-28 11:58:20] [ INFO ] [Lion:51] Lion Mufasa tem 10 anos ou mais e é alfa
+[2021-10-28 11:58:20] [ INFO ] [Lion:53] Lion Simbad can't run
+[2021-10-28 11:58:20] [ ERROR] [Lion:55] Lion Dabmis tem idade negativa
+[2021-10-28 11:58:20] [ ERROR] [Test:32] a idade do leao Mufasa ta incorreta
+java.lang.Exception
+	at Lion.isMaior10(Lion.java:56)
+	at Test.main(Test.java:30)
+[2021-10-28 12:01:58] [ INFO ] [Lion:46] Lion Mufasa running
+[2021-10-28 12:01:58] [ INFO ] [Lion:46] Lion Simbad running
+[2021-10-28 12:01:58] [ INFO ] [Lion:46] Lion Dabmis running
+[2021-10-28 12:01:58] [ INFO ] [Lion:51] Lion Mufasa tem 10 anos ou mais e é alfa
+[2021-10-28 12:01:58] [ INFO ] [Lion:55] Lion Simbad can't run
+[2021-10-28 12:01:58] [ ERROR] [Lion:58] Lion Dabmis tem idade negativa
+[2021-10-28 12:01:58] [ ERROR] [Test:32] a idade do leao Mufasa ta incorreta
+java.lang.Exception
+	at Lion.isMaior10(Lion.java:59)
+	at Test.main(Test.java:30)
+[2021-10-28 12:06:05] [ INFO ] [Lion:46] Lion Mufasa running
+[2021-10-28 12:06:05] [ INFO ] [Lion:46] Lion Simbad running
+[2021-10-28 12:06:05] [ INFO ] [Lion:46] Lion Dabmis running
+[2021-10-28 12:06:05] [ INFO ] [Lion:51] Lion Mufasa tem 10 anos ou mais e é alfa
+[2021-10-28 12:06:05] [ INFO ] [Lion:55] Lion Simbad can't run
+[2021-10-28 12:06:05] [ ERROR] [Lion:58] Lion Dabmis tem idade negativa
+[2021-10-28 12:06:05] [ ERROR] [Test:32] a idade do leao Mufasa ta incorreta
+java.lang.Exception
+	at Lion.isMaior10(Lion.java:59)
+	at Test.main(Test.java:30)
+[2021-10-28 12:06:05] [ INFO ] [Lion:38] Tiger Diego running
+[2021-10-28 12:06:05] [ INFO ] [Lion:38] Tiger Ogeid running
+[2021-10-28 12:06:05] [ INFO ] [Lion:43] Tiger Diego tem 10 anos
+[2021-10-28 12:06:05] [ INFO ] [Lion:45] Tiger Ogeid can't run
+[2021-10-28 12:06:58] [ INFO ] [Lion:46] Lion Mufasa running
+[2021-10-28 12:06:58] [ INFO ] [Lion:46] Lion Simbad running
+[2021-10-28 12:06:58] [ INFO ] [Lion:46] Lion Dabmis running
+[2021-10-28 12:06:58] [ INFO ] [Lion:51] Lion Mufasa tem 10 anos ou mais e é alfa
+[2021-10-28 12:06:58] [ INFO ] [Lion:55] Lion Simbad n tem idade pra correr
+[2021-10-28 12:06:58] [ ERROR] [Lion:58] Lion Dabmis tem idade negativa
+[2021-10-28 12:06:58] [ ERROR] [Test:32] a idade do leao Mufasa ta incorreta
+java.lang.Exception
+	at Lion.isMaior10(Lion.java:59)
+	at Test.main(Test.java:30)
+[2021-10-28 12:06:58] [ INFO ] [Lion:38] Tiger Diego running
+[2021-10-28 12:06:58] [ INFO ] [Lion:38] Tiger Ogeid running
+[2021-10-28 12:06:58] [ INFO ] [Lion:43] Tiger Diego tem 10 anos
+[2021-10-28 12:06:58] [ INFO ] [Lion:45] Tiger Ogeid n tem idade pra correr
+[2021-10-28 12:09:35] [ INFO ] [Lion:46] Lion Mufasa running
+[2021-10-28 12:09:35] [ INFO ] [Lion:46] Lion Simbad running
+[2021-10-28 12:09:35] [ INFO ] [Lion:46] Lion Dabmis running
+[2021-10-28 12:09:35] [ INFO ] [Lion:51] Lion Mufasa tem 10 anos ou mais e é alfa
+[2021-10-28 12:09:35] [ INFO ] [Lion:55] Lion Simbad n tem idade pra correr
+[2021-10-28 12:09:35] [ ERROR] [Lion:58] Lion Dabmis tem idade negativa
+[2021-10-28 12:09:35] [ ERROR] [Test:32] a idade do leao Mufasa ta incorreta
+java.lang.Exception
+	at Lion.isMaior10(Lion.java:59)
+	at Test.main(Test.java:30)
+[2021-10-28 12:09:35] [ INFO ] [Lion:38] Tiger Diego running
+[2021-10-28 12:09:35] [ INFO ] [Lion:38] Tiger Ogeid running
+[2021-10-28 12:09:35] [ INFO ] [Lion:38] Tiger Tigro running
+[2021-10-28 12:09:35] [ INFO ] [Lion:43] Tiger Diego tem 10 anos
+[2021-10-28 12:09:35] [ INFO ] [Lion:45] Tiger Ogeid n tem idade pra correr
+[2021-10-28 12:09:35] [ ERROR] [Lion:47] Tiger Tigro tem idade negativa
+[2021-10-28 12:09:35] [ ERROR] [Test:55] a idade do tigre Tigro ta incorreta
+java.lang.Exception
+	at Tiger.isMaior10(Tiger.java:48)
+	at Test.main(Test.java:53)

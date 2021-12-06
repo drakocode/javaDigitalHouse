@@ -1,0 +1,12 @@
+[2021-11-03 12:25:34] [ DEBUG] [MedicamentoDaoH2:25] Registrando novo medicamento :Medicamento{id=null, nome='Rivotril', laboratorio='DeathLab', quantidade=888, preco=110.0}
+[2021-11-03 12:25:37] [ DEBUG] [MedicamentoDaoH2:58] Buscando medicamento com id: 1
+[2021-11-03 12:27:38] [ DEBUG] [MedicamentoDaoH2:25] Registrando novo medicamento :Medicamento{id=null, nome='Rivotril', laboratorio='DeathLab', quantidade=888, preco=110.0}
+[2021-11-03 12:27:39] [ DEBUG] [MedicamentoDaoH2:58] Buscando medicamento com id: 1
+[2021-11-03 12:28:20] [ DEBUG] [MedicamentoDaoH2:25] Registrando novo medicamento :Medicamento{id=null, nome='Rivotril', laboratorio='DeathLab', quantidade=888, preco=110.0}
+[2021-11-03 12:28:21] [ DEBUG] [MedicamentoDaoH2:58] Buscando medicamento com id: 1
+[2021-11-03 12:29:02] [ DEBUG] [MedicamentoDaoH2:25] Registrando novo medicamento :Medicamento{id=null, nome='Rivotril', laboratorio='DeathLab', quantidade=888, preco=110.0}
+[2021-11-03 12:29:02] [ DEBUG] [MedicamentoDaoH2:58] Buscando medicamento com id: 1
+[2021-11-03 12:30:24] [ DEBUG] [MedicamentoDaoH2:25] Registrando novo medicamento :Medicamento{id=null, nome='Rivotril', laboratorio='DeathLab', quantidade=888, preco=110.0}
+[2021-11-03 12:30:25] [ DEBUG] [MedicamentoDaoH2:57] Buscando medicamento com id: 1
+[2021-11-03 12:33:26] [ DEBUG] [MedicamentoDaoH2:25] Registrando novo medicamento :Medicamento{id=null, nome='Rivotril', laboratorio='DeathLab', quantidade=888, preco=110.0}
+[2021-11-03 12:33:26] [ DEBUG] [MedicamentoDaoH2:57] Buscando medicamento com id: 1

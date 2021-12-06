@@ -1,0 +1,50 @@
+[2021-11-08 11:31:19] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:33:03] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:33:05] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:33:05] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:33:05] [ DEBUG] [DentistaDaoH2:90] Deletando o dentista com id: 6
+[2021-11-08 11:33:05] [ DEBUG] [DentistaDaoH2:54] Buscando paciente com id 6
+[2021-11-08 11:34:38] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:37:38] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:42:17] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:42:18] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:42:18] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:42:18] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:42:18] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:42:18] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:42:18] [ DEBUG] [PacienteDaoH2:65] Buscando paciente com id 3
+[2021-11-08 11:42:19] [ DEBUG] [EnderecoDaoH2:61] Buscando endereço com id 3
+[2021-11-08 11:42:19] [ DEBUG] [PacienteDaoH2:103] Deletando o paciente com id: 6
+[2021-11-08 11:42:19] [ DEBUG] [PacienteDaoH2:65] Buscando paciente com id 6
+[2021-11-08 11:42:19] [ DEBUG] [PacienteDaoH2:122] Buscando todos os pacientes
+[2021-11-08 11:42:19] [ DEBUG] [EnderecoDaoH2:61] Buscando endereço com id 1
+[2021-11-08 11:42:19] [ DEBUG] [EnderecoDaoH2:61] Buscando endereço com id 2
+[2021-11-08 11:42:19] [ DEBUG] [EnderecoDaoH2:61] Buscando endereço com id 3
+[2021-11-08 11:44:10] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:44:11] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:44:11] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:44:11] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:44:11] [ DEBUG] [DentistaDaoH2:54] Buscando paciente com id 7
+[2021-11-08 11:44:11] [ DEBUG] [DentistaDaoH2:90] Deletando o dentista com id: 6
+[2021-11-08 11:44:11] [ DEBUG] [DentistaDaoH2:54] Buscando paciente com id 6
+[2021-11-08 11:44:11] [ DEBUG] [DentistaDaoH2:109] Buscando todos os dentistas
+[2021-11-08 11:50:17] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:50:17] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:51:17] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:51:18] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:51:37] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:51:37] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:51:37] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:51:37] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:51:37] [ DEBUG] [PacienteDaoH2:37] Registrando paciente
+[2021-11-08 11:51:37] [ DEBUG] [EnderecoDaoH2:31] Registrando endereço
+[2021-11-08 11:51:37] [ DEBUG] [PacienteDaoH2:65] Buscando paciente com id 6
+[2021-11-08 11:51:37] [ DEBUG] [EnderecoDaoH2:61] Buscando endereço com id 6
+[2021-11-08 11:51:47] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:51:48] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:51:48] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:51:48] [ DEBUG] [DentistaDaoH2:30] Registrando dentista
+[2021-11-08 11:51:48] [ DEBUG] [DentistaDaoH2:54] Buscando paciente com id 11
+[2021-11-08 11:51:48] [ DEBUG] [DentistaDaoH2:90] Deletando o dentista com id: 6
+[2021-11-08 11:51:48] [ DEBUG] [DentistaDaoH2:54] Buscando paciente com id 6
+[2021-11-08 11:51:48] [ DEBUG] [DentistaDaoH2:109] Buscando todos os dentistas
